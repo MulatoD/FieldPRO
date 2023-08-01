@@ -1,0 +1,7 @@
+pandas
+notebook
+scikit-learn
+matplotlib
+seaborn
+pickle
+shap
